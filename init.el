@@ -3,7 +3,8 @@
        (list
          (expand-file-name "~/.emacs.d")
          (expand-file-name "~/.emacs.d/elisp")
-         (expand-file-name "~/.emacs.d/slime"))
+         (expand-file-name "~/.emacs.d/slime")
+         (expand-file-name "~/.emacs.d/ruby-tools.el"))
        load-path))
 
 ;; init-loader.el
