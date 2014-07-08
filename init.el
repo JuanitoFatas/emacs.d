@@ -2,7 +2,8 @@
       (append
        (list
          (expand-file-name "~/.emacs.d")
-         (expand-file-name "~/.emacs.d/elisp"))
+         (expand-file-name "~/.emacs.d/elisp")
+         (expand-file-name "~/.emacs.d/slime"))
        load-path))
 
 ;; init-loader.el
